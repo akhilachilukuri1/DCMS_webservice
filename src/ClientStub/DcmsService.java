@@ -1,5 +1,5 @@
 
-package DcmsSEI.server;
+package ClientStub;
 
 import java.net.MalformedURLException;
 import java.net.URL;
@@ -17,7 +17,7 @@ import javax.xml.ws.WebServiceFeature;
  * Generated source version: 2.2
  * 
  */
-@WebServiceClient(name = "DcmsService", targetNamespace = "http://Server/", wsdlLocation = "file:/C:/Users/akhila/Documents/COMP-6231/DCMS_webservices/DcmsService.wsdl")
+@WebServiceClient(name = "DcmsService", targetNamespace = "http://Server/", wsdlLocation = "file:/C:/Users/akhila/Desktop/DCMS_webservice/DcmsService.wsdl")
 public class DcmsService
     extends Service
 {
@@ -30,7 +30,7 @@ public class DcmsService
         URL url = null;
         WebServiceException e = null;
         try {
-            url = new URL("file:/C:/Users/akhila/Documents/COMP-6231/DCMS_webservices/DcmsService.wsdl");
+            url = new URL("file:/C:/Users/akhila/Desktop/DCMS_webservice/DcmsService.wsdl");
         } catch (MalformedURLException ex) {
             e = new WebServiceException(ex);
         }

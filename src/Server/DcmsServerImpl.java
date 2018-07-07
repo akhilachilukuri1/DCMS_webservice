@@ -19,7 +19,6 @@ import Models.Teacher;
  * interface is the interface that exposes the methods to the client
  */
 @WebService(endpointInterface = "Server.Dcms", portName = "DcmsPort", serviceName = "DcmsService")
-// @SOAPBinding(style = Style.RPC)
 public class DcmsServerImpl implements Dcms {
 	LogManager logManager;
 	ServerUDP serverUDP;
@@ -133,7 +132,6 @@ public class DcmsServerImpl implements Dcms {
 	 *            function which are received the respective functions.
 	 * 
 	 */
-	// @WebMethod(exclude=true)
 	synchronized String addRecordToHashMap(String key, Teacher teacher, Student student) {
 		String message = "Error";
 		if (teacher != null) {
@@ -345,7 +343,6 @@ public class DcmsServerImpl implements Dcms {
 	 *            gets the newcourses value and adds to the list
 	 *
 	 */
-	// @WebMethod(exclude=true)
 	synchronized List<String> putCoursesinList(String newvalue) {
 		String[] courses = newvalue.split("//");
 		ArrayList<String> courseList = new ArrayList<>();

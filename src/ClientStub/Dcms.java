@@ -1,5 +1,5 @@
 
-package DcmsSEI.server;
+package ClientStub;
 
 import javax.jws.WebMethod;
 import javax.jws.WebParam;
@@ -19,6 +19,57 @@ import javax.xml.ws.Action;
 @SOAPBinding(style = SOAPBinding.Style.RPC)
 public interface Dcms {
 
+
+    /**
+     * 
+     * @param arg2
+     * @param arg1
+     * @param arg0
+     * @return
+     *     returns java.lang.String
+     */
+    @WebMethod
+    @WebResult(partName = "return")
+    @Action(input = "http://Server/Dcms/transferRecordRequest", output = "http://Server/Dcms/transferRecordResponse")
+    public String transferRecord(
+        @WebParam(name = "arg0", partName = "arg0")
+        String arg0,
+        @WebParam(name = "arg1", partName = "arg1")
+        String arg1,
+        @WebParam(name = "arg2", partName = "arg2")
+        String arg2);
+
+    /**
+     * 
+     * @param arg3
+     * @param arg2
+     * @param arg1
+     * @param arg0
+     * @return
+     *     returns java.lang.String
+     */
+    @WebMethod
+    @WebResult(partName = "return")
+    @Action(input = "http://Server/Dcms/editRecordRequest", output = "http://Server/Dcms/editRecordResponse")
+    public String editRecord(
+        @WebParam(name = "arg0", partName = "arg0")
+        String arg0,
+        @WebParam(name = "arg1", partName = "arg1")
+        String arg1,
+        @WebParam(name = "arg2", partName = "arg2")
+        String arg2,
+        @WebParam(name = "arg3", partName = "arg3")
+        String arg3);
+
+    /**
+     * 
+     * @return
+     *     returns java.lang.String
+     */
+    @WebMethod
+    @WebResult(partName = "return")
+    @Action(input = "http://Server/Dcms/getRecordCountRequest", output = "http://Server/Dcms/getRecordCountResponse")
+    public String getRecordCount();
 
     /**
      * 
@@ -51,56 +102,5 @@ public interface Dcms {
         String arg0,
         @WebParam(name = "arg1", partName = "arg1")
         String arg1);
-
-    /**
-     * 
-     * @return
-     *     returns java.lang.String
-     */
-    @WebMethod
-    @WebResult(partName = "return")
-    @Action(input = "http://Server/Dcms/getRecordCountRequest", output = "http://Server/Dcms/getRecordCountResponse")
-    public String getRecordCount();
-
-    /**
-     * 
-     * @param arg3
-     * @param arg2
-     * @param arg1
-     * @param arg0
-     * @return
-     *     returns java.lang.String
-     */
-    @WebMethod
-    @WebResult(partName = "return")
-    @Action(input = "http://Server/Dcms/editRecordRequest", output = "http://Server/Dcms/editRecordResponse")
-    public String editRecord(
-        @WebParam(name = "arg0", partName = "arg0")
-        String arg0,
-        @WebParam(name = "arg1", partName = "arg1")
-        String arg1,
-        @WebParam(name = "arg2", partName = "arg2")
-        String arg2,
-        @WebParam(name = "arg3", partName = "arg3")
-        String arg3);
-
-    /**
-     * 
-     * @param arg2
-     * @param arg1
-     * @param arg0
-     * @return
-     *     returns java.lang.String
-     */
-    @WebMethod
-    @WebResult(partName = "return")
-    @Action(input = "http://Server/Dcms/transferRecordRequest", output = "http://Server/Dcms/transferRecordResponse")
-    public String transferRecord(
-        @WebParam(name = "arg0", partName = "arg0")
-        String arg0,
-        @WebParam(name = "arg1", partName = "arg1")
-        String arg1,
-        @WebParam(name = "arg2", partName = "arg2")
-        String arg2);
 
 }

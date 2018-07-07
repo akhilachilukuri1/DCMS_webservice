@@ -2,19 +2,14 @@ package Client;
 
 import java.io.File;
 import java.net.URL;
-import java.rmi.AccessException;
-import java.rmi.NotBoundException;
-import java.rmi.RemoteException;
-import java.rmi.registry.LocateRegistry;
-import java.rmi.registry.Registry;
-import java.util.Date;
-import java.util.List;
 import java.util.logging.Level;
 import Conf.LogManager;
 import Conf.*;
 import javax.xml.namespace.QName;
 import javax.xml.ws.Service;
-import DcmsSEI.server.*;
+
+import ClientStub.Dcms;
+
 /*Implementation of Client class*/
 
 public class ClientImp {
@@ -41,18 +36,18 @@ public class ClientImp {
 	 */
 	ClientImp(String[] args, ServerCenterLocation location, String ManagerID) {
 		try {
-			QName mtl = new QName("http://Server/","DcmsService");
+			QName qname = new QName("http://Server/","DcmsService");
 			if (location == ServerCenterLocation.MTL) {
 				url = new URL("http://localhost:3333/MTL?wsdl");
-				service = Service.create(url,mtl);
+				service = Service.create(url,qname);
 				serverLoc = service.getPort(Dcms.class);
 			} else if (location == ServerCenterLocation.LVL) {
-				url = new URL("http://localhost:3333/LVL?wsdl");
-				service = Service.create(url,mtl);
+				url = new URL("http://localhost:5555/LVL?wsdl");
+				service = Service.create(url,qname);
 				serverLoc = service.getPort(Dcms.class);
 			} else if (location == ServerCenterLocation.DDO) {
-				url = new URL("http://localhost:3333/DDO?wsdl");
-				service = Service.create(url,mtl);
+				url = new URL("http://localhost:4444/DDO?wsdl");
+				service = Service.create(url,qname);
 				serverLoc = service.getPort(Dcms.class);
 			}
 			boolean mgrID = new File(Constants.LOG_DIR + ManagerID).mkdir();

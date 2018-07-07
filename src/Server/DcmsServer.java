@@ -44,8 +44,8 @@ public class DcmsServer {
 		locationMap.put("DDO", ddoServer);
 		
 		Endpoint endpointMtl = Endpoint.publish("http://localhost:3333/MTL", mtlServer);
-		Endpoint endpointDdo = Endpoint.publish("http://localhost:3333/DDO", lvlServer);
-		Endpoint endpointLvl = Endpoint.publish("http://localhost:3333/LVL", ddoServer);
+		Endpoint endpointDdo = Endpoint.publish("http://localhost:4444/DDO", ddoServer);
+		Endpoint endpointLvl = Endpoint.publish("http://localhost:5555/LVL", lvlServer);
 
 		if (endpointMtl.isPublished())
 			System.out.println("MTL Web Service is published!");
