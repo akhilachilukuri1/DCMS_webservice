@@ -78,6 +78,11 @@ public class UDPRequestServer extends Thread {
 			// "Exception in UDP Request server Thread :: " + e.getMessage());
 		}
 	}
+	/**
+	 * Private method which actually performs the transfer record functionality
+	 * @param recordToBeAdded - record to be added to the new location's hashmap
+	 * @return returns a success or failure message
+	 */
 
 	private String transferRecord(String recordToBeAdded) {
 		String temp[] = recordToBeAdded.split(",");
