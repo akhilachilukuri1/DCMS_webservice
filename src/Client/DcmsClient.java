@@ -24,7 +24,7 @@ public class DcmsClient {
 	 * Client main code to get the input from the user and send calls appropriately
 	 * to the server
 	 * 
-	 * @param args[] port number and IP address
+	 * @param args[] command line arguments
 	 */
 	public static void main(String args[]) throws IOException {
 		ClientImp serverloc = null;
@@ -48,15 +48,15 @@ public class DcmsClient {
 					continue;
 				}
 				if (managerID.contains("MTL")) {
-					serverloc = new ClientImp(args, ServerCenterLocation.MTL,
+					serverloc = new ClientImp(ServerCenterLocation.MTL,
 							managerID);
 					logManager = new LogManager("MTL");
 				} else if (managerID.contains("LVL")) {
-					serverloc = new ClientImp(args, ServerCenterLocation.LVL,
+					serverloc = new ClientImp(ServerCenterLocation.LVL,
 							managerID);
 					logManager = new LogManager("LVL");
 				} else if (managerID.contains("DDO")) {
-					serverloc = new ClientImp(args, ServerCenterLocation.DDO,
+					serverloc = new ClientImp(ServerCenterLocation.DDO,
 							managerID);
 					logManager = new LogManager("DDO");
 				} else {

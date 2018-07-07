@@ -24,9 +24,6 @@ public class ClientImp {
 	 * 
 	 * creates the client instance with
 	 * 
-	 * @param args
-	 *            gets the port number and IP address and creates the ORB object
-	 *            with it.
 	 * @param location
 	 *            gets the location of the client,based on the location the
 	 *            appropriate server instance is called to perform the operation
@@ -34,7 +31,7 @@ public class ClientImp {
 	 * @param ManagerID
 	 *            creates the log file with the managerID.
 	 */
-	ClientImp(String[] args, ServerCenterLocation location, String ManagerID) {
+	ClientImp(ServerCenterLocation location, String ManagerID) {
 		try {
 			QName qname = new QName("http://Server/","DcmsService");
 			if (location == ServerCenterLocation.MTL) {
