@@ -1,0 +1,71 @@
+TEST SCENARIO 10 :: 
+
+CLIENT1 INPUT ::
+
+Please enter the Client's ManagerID
+MTL1111
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager
+1
+Enter the first name of the teacher
+G
+Enter the last name of the teacher
+B
+Enter the address of the teacher
+MTL
+Enter the Phone number in 123-456-7689 format
+444-222-2222
+Enter the specialization of the teacher
+Science
+Enter the Location(MTL/LVL/DDO)
+MTL
+
+CLIENT1 OUTPUT ::
+
+Teacher record is created and assigned with TR2
+
+CLIENT2 INPUT ::
+
+Please enter the Client's ManagerID
+MTL1212
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager
+1
+Enter the first name of the teacher
+V
+Enter the last name of the teacher
+V
+Enter the address of the teacher
+MTL
+Enter the Phone number in 123-456-7689 format
+444-444-4444
+Enter the specialization of the teacher
+Math
+Enter the Location(MTL/LVL/DDO)
+MTL
+
+CLIENT2 OUTPUT ::
+
+Teacher record is created and assigned with TR1
+
+
+SERVER OUTPUT FOR MULTIPLE CLIENTS PERFORMING THE SAME OPERATION
+
+MTL Web Service is published!
+DDO Web Service is published!
+LVL Web Service is published!
+
+MTL SERVER ::
+
+Teacher is added MTL1212,TR1,V,V,MTL,444-444-4444,Math,MTL with this key V by Manager MTL1212
+Teacher is added MTL1111,TR2,G,B,MTL,444-222-2222,Science,MTL with this key B by Manager MTL1111
