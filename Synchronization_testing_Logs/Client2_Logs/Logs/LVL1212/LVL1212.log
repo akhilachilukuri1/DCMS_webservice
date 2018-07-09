@@ -1,0 +1,20 @@
+Jul 08, 2018 8:00:33 PM Client.ClientImp getRecordCounts
+INFO: Initiating record count request
+Jul 08, 2018 8:00:33 PM Client.ClientImp getRecordCounts
+INFO: received....count as follows
+Jul 08, 2018 8:00:33 PM Client.ClientImp getRecordCounts
+INFO: LVL 1 , MTL 1 , DDO 0
+Jul 08, 2018 8:02:37 PM Client.ClientImp getRecordCounts
+INFO: Initiating record count request
+Jul 08, 2018 8:02:37 PM Client.ClientImp getRecordCounts
+INFO: received....count as follows
+Jul 08, 2018 8:02:37 PM Client.ClientImp getRecordCounts
+INFO: LVL 1 , MTL 1 , DDO 0
+Jul 08, 2018 8:59:32 PM Client.ClientImp editRecord
+INFO: LVL1212has Initiated the record edit request for TR1
+Jul 08, 2018 8:59:32 PM Client.ClientImp editRecord
+INFO: Updated record with address :: Client 2 Address
+Jul 08, 2018 9:00:13 PM Client.ClientImp transferRecord
+INFO: Initiating the record transfer request
+Jul 08, 2018 9:00:13 PM Client.ClientImp transferRecord
+INFO: Record created in DDOand removed from LVL

@@ -1,0 +1,31 @@
+Please enter the Client's ManagerID
+MTL7689
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager
+3
+Total Record Count from all 3 servers is :: MTL 1 , LVL 0 , DDO 0
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager
+5
+Enter the record ID
+TR1
+Enter the location(MTL/LVL/DDO)
+DDO
+RecordID unavailable!
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager

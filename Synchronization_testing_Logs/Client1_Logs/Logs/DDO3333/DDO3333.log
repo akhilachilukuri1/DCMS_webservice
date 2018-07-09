@@ -1,0 +1,8 @@
+Jul 08, 2018 8:41:06 PM Client.ClientImp editRecord
+INFO: DDO3333has Initiated the record edit request for TR1
+Jul 08, 2018 8:41:06 PM Client.ClientImp editRecord
+INFO: Updated record with address :: Client 1 address
+Jul 08, 2018 8:42:26 PM Client.ClientImp transferRecord
+INFO: Initiating the record transfer request
+Jul 08, 2018 8:42:26 PM Client.ClientImp transferRecord
+INFO: Record created in LVLand removed from DDO

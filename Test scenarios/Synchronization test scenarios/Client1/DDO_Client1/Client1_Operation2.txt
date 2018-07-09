@@ -1,0 +1,39 @@
+Please enter the Client's ManagerID
+DDO1111
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager
+1
+Enter the first name of the teacher
+Sam
+Enter the last name of the teacher
+Anderson
+Enter the address of the teacher
+2125 Delhi 06
+Enter the Phone number in 123-456-7689 format
+788-555-2145
+Enter the specialization of the teacher
+French
+Enter the Location(MTL/LVL/DDO)
+DDO
+Teacher record is created and assigned with TR2
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager
+3
+Total Record Count from all 3 servers is :: DDO 3 , MTL 0 , LVL 0
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager

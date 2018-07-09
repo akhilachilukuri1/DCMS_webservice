@@ -1,0 +1,18 @@
+Jul 08, 2018 7:35:04 PM Client.ClientImp createTRecord
+INFO: Initiating T record object creation request
+Jul 08, 2018 7:35:04 PM Client.ClientImp createTRecord
+INFO: Teacher record is created and assigned with TR1
+Jul 08, 2018 7:35:57 PM Client.ClientImp transferRecord
+INFO: Initiating the record transfer request
+Jul 08, 2018 7:35:57 PM Client.ClientImp transferRecord
+INFO: RecordID unavailable!
+Jul 08, 2018 7:36:46 PM Client.ClientImp getRecordCounts
+INFO: Initiating record count request
+Jul 08, 2018 7:36:47 PM Client.ClientImp getRecordCounts
+INFO: received....count as follows
+Jul 08, 2018 7:36:47 PM Client.ClientImp getRecordCounts
+INFO: MTL 0 , LVL 1 , DDO 0
+Jul 08, 2018 7:38:21 PM Client.ClientImp transferRecord
+INFO: Initiating the record transfer request
+Jul 08, 2018 7:38:21 PM Client.ClientImp transferRecord
+INFO: RecordID unavailable!

@@ -1,0 +1,44 @@
+Please enter the Client's ManagerID
+LVL1231
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager
+2
+Enter the first name of the student
+Vaishnavi
+Enter the last name of the student
+HoneyBoi
+Enter the number of courses registered by the student
+2
+Enter the 2 courses(one per line) registered by the student
+Smart
+JavaExpert
+Enter the status of student (Active/Inactive)
+Active
+Enter the date when the student became active(Format :: 29-02-2018)
+29-02-2018
+student record is created and assigned with SR2
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager
+5
+Enter the record ID
+SR2
+Enter the location(MTL/LVL/DDO)
+DDO
+RecordID unavailable!
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager

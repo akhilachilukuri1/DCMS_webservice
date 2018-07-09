@@ -1,0 +1,10 @@
+Jul 08, 2018 7:39:27 PM Client.ClientImp getRecordCounts
+INFO: Initiating record count request
+Jul 08, 2018 7:39:27 PM Client.ClientImp getRecordCounts
+INFO: received....count as follows
+Jul 08, 2018 7:39:27 PM Client.ClientImp getRecordCounts
+INFO: MTL 1 , LVL 0 , DDO 0
+Jul 08, 2018 7:40:00 PM Client.ClientImp transferRecord
+INFO: Initiating the record transfer request
+Jul 08, 2018 7:40:00 PM Client.ClientImp transferRecord
+INFO: RecordID unavailable!

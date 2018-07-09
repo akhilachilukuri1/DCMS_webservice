@@ -1,0 +1,11 @@
+Teacher is added LVL8888,TR2,Hello,Bawse,werwererw,123-123-1212,Quantum Physics,LVL with this key B by Manager LVL8888
+Received pkt :: GET_RECORD_COUNT
+Received pkt :: GET_RECORD_COUNT
+Received pkt :: GET_RECORD_COUNT
+Received pkt :: GET_RECORD_COUNT
+Transferring record to :: DDO
+Received pkt :: TRANSFER_RECORD#LVL8888,TR2,Hello,Bawse,werwererw,123-123-1212,Quantum Physics,LVL
+Transferring :: LVL8888,TR2,Hello,Bawse,werwererw,123-123-1212,Quantum Physics,LVL
+{r=[LVL1234,SR1,vicky,raman,[math],Active,29-02-2018], B=[], L=[LVL1111,TR1,Aaaksh,Lovepreeth,1235 UK Romance,123-456-7850,Romace,LVL]}
+Received pkt :: GET_RECORD_COUNT
+Received pkt :: GET_RECORD_COUNT

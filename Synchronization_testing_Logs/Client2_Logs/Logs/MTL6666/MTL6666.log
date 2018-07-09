@@ -1,0 +1,8 @@
+Jul 08, 2018 7:25:30 PM Client.ClientImp createTRecord
+INFO: Initiating T record object creation request
+Jul 08, 2018 7:25:30 PM Client.ClientImp createTRecord
+INFO: Teacher record is created and assigned with TR1
+Jul 08, 2018 7:26:58 PM Client.ClientImp editRecord
+INFO: MTL6666has Initiated the record edit request for TR1
+Jul 08, 2018 7:26:58 PM Client.ClientImp editRecord
+INFO: Updated record with address :: Client 2 Address

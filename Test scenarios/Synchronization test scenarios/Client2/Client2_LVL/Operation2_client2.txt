@@ -1,0 +1,48 @@
+Please enter the Client's ManagerID
+LVL1234
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager
+2
+Enter the first name of the student
+vicky
+Enter the last name of the student
+raman
+Enter the number of courses registered by the student
+1
+Enter the 1 courses(one per line) registered by the student
+math
+Enter the status of student (Active/Inactive)
+Active
+Enter the date when the student became active(Format :: 29-02-2018)
+29-02-2018
+student record is created and assigned with SR1
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager
+3
+Total Record Count from all 3 servers is :: LVL 1 , MTL 0 , DDO 0
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager
+3
+Total Record Count from all 3 servers is :: LVL 2 , MTL 0 , DDO 0
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager

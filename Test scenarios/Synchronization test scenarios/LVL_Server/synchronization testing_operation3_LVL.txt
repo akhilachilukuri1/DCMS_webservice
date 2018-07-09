@@ -1,0 +1,4 @@
+Transferring record to :: DDO
+Received pkt :: TRANSFER_RECORD#LVL1111,TR1,Aaaksh,Lovepreeth,Client 1 address,123-456-7850,Romace,LVL
+Transferring :: LVL1111,TR1,Aaaksh,Lovepreeth,Client 1 address,123-456-7850,Romace,LVL
+{r=[LVL1234,SR1,vicky,raman,[math],Active,29-02-2018], B=[], L=[]}

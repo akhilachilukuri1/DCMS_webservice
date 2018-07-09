@@ -1,0 +1,46 @@
+Jul 08, 2018 6:50:36 PM Client.ClientImp createTRecord
+INFO: Initiating T record object creation request
+Jul 08, 2018 6:50:36 PM Client.ClientImp createTRecord
+INFO: Teacher record is created and assigned with TR1
+Jul 08, 2018 6:51:19 PM Client.ClientImp createSRecord
+INFO: Initiating S record object creation request
+Jul 08, 2018 6:51:19 PM Client.ClientImp createSRecord
+INFO: student record is created and assigned with SR1
+Jul 08, 2018 6:51:28 PM Client.ClientImp getRecordCounts
+INFO: Initiating record count request
+Jul 08, 2018 6:51:28 PM Client.ClientImp getRecordCounts
+INFO: received....count as follows
+Jul 08, 2018 6:51:28 PM Client.ClientImp getRecordCounts
+INFO: MTL 2 , LVL 0 , DDO 0
+Jul 08, 2018 6:51:39 PM Client.ClientImp transferRecord
+INFO: Initiating the record transfer request
+Jul 08, 2018 6:51:39 PM Client.ClientImp transferRecord
+INFO: Record created in DDOand removed from MTL
+Jul 08, 2018 6:51:44 PM Client.ClientImp getRecordCounts
+INFO: Initiating record count request
+Jul 08, 2018 6:51:44 PM Client.ClientImp getRecordCounts
+INFO: received....count as follows
+Jul 08, 2018 6:51:44 PM Client.ClientImp getRecordCounts
+INFO: MTL 1 , LVL 0 , DDO 1
+Jul 08, 2018 6:53:19 PM Client.ClientImp editRecord
+INFO: MTL8888has Initiated the record edit request for TR1
+Jul 08, 2018 6:53:20 PM Client.ClientImp editRecord
+INFO: Updated record with address :: 25 avenue St Mark
+Jul 08, 2018 6:53:47 PM Client.ClientImp editRecord
+INFO: MTL8888has Initiated the record edit request for TR1
+Jul 08, 2018 6:53:48 PM Client.ClientImp editRecord
+INFO: Updated record with Phone :: 123-444-0000
+Jul 08, 2018 6:54:05 PM Client.ClientImp editRecord
+INFO: MTL8888has Initiated the record edit request for TR1
+Jul 08, 2018 6:54:06 PM Client.ClientImp editRecord
+INFO: Updated record with location :: DDO
+Jul 08, 2018 6:54:10 PM Client.ClientImp getRecordCounts
+INFO: Initiating record count request
+Jul 08, 2018 6:54:10 PM Client.ClientImp getRecordCounts
+INFO: received....count as follows
+Jul 08, 2018 6:54:10 PM Client.ClientImp getRecordCounts
+INFO: MTL 1 , LVL 0 , DDO 1
+Jul 08, 2018 7:03:45 PM Client.ClientImp createTRecord
+INFO: Initiating T record object creation request
+Jul 08, 2018 7:03:45 PM Client.ClientImp createTRecord
+INFO: Teacher record is created and assigned with TR4

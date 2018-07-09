@@ -1,0 +1,14 @@
+Teacher is added DDO1212,TR3,asdsad,sadsad,qwewqe,123-123-1212,rrrrr,DDO with this key s by Manager DDO1212
+ Student is added DDO1212,SR2,vvv,eee,[math],Active,22-09-2018 with this key e by Manager DDO1212
+Received pkt :: GET_RECORD_COUNT
+Received pkt :: GET_RECORD_COUNT
+Transferring record to :: LVL
+Received pkt :: TRANSFER_RECORD#DDO1212,TR3,asdsad,sadsad,qwewqe,123-123-1212,rrrrr,DDO
+Transferring :: DDO1212,TR3,asdsad,sadsad,qwewqe,123-123-1212,rrrrr,DDO
+{A=[DDO1111,TR2,Sam,Anderson,2125 Delhi 06,788-555-2145,French,DDO], s=[], e=[DDO1212,SR2,vvv,eee,[math],Active,22-09-2018], N=[DDO1212,TR1,Hello,Name,erererer,123-123-1212,Math,DDO, DDO1212,SR1,Marks,Nickam,[math/english],Active,23-06-2017]}
+Transferring record to :: LVL
+Received pkt :: TRANSFER_RECORD#DDO1212,SR2,vvv,eee,[math],Active,22-09-2018
+Transferring :: DDO1212,SR2,vvv,eee,[math],Active,22-09-2018 	 	
+{A=[DDO1111,TR2,Sam,Anderson,2125 Delhi 06,788-555-2145,French,DDO], s=[], e=[], N=[DDO1212,TR1,Hello,Name,erererer,123-123-1212,Math,DDO, DDO1212,SR1,Marks,Nickam,[math/english],Active,23-06-2017]}
+Received pkt :: GET_RECORD_COUNT
+Received pkt :: GET_RECORD_COUNT

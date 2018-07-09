@@ -1,0 +1,10 @@
+Jul 08, 2018 8:56:33 PM Client.ClientImp getRecordCounts
+INFO: Initiating record count request
+Jul 08, 2018 8:56:33 PM Client.ClientImp getRecordCounts
+INFO: received....count as follows
+Jul 08, 2018 8:56:33 PM Client.ClientImp getRecordCounts
+INFO: LVL 3 , MTL 0 , DDO 0
+Jul 08, 2018 8:56:52 PM Client.ClientImp transferRecord
+INFO: Initiating the record transfer request
+Jul 08, 2018 8:56:52 PM Client.ClientImp transferRecord
+INFO: Record created in DDOand removed from LVL

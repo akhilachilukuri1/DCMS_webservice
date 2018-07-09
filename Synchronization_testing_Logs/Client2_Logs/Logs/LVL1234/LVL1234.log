@@ -1,0 +1,16 @@
+Jul 08, 2018 8:51:14 PM Client.ClientImp createSRecord
+INFO: Initiating S record object creation request
+Jul 08, 2018 8:51:14 PM Client.ClientImp createSRecord
+INFO: student record is created and assigned with SR1
+Jul 08, 2018 8:51:40 PM Client.ClientImp getRecordCounts
+INFO: Initiating record count request
+Jul 08, 2018 8:51:40 PM Client.ClientImp getRecordCounts
+INFO: received....count as follows
+Jul 08, 2018 8:51:40 PM Client.ClientImp getRecordCounts
+INFO: LVL 1 , MTL 0 , DDO 0
+Jul 08, 2018 8:53:36 PM Client.ClientImp getRecordCounts
+INFO: Initiating record count request
+Jul 08, 2018 8:53:36 PM Client.ClientImp getRecordCounts
+INFO: received....count as follows
+Jul 08, 2018 8:53:36 PM Client.ClientImp getRecordCounts
+INFO: LVL 2 , MTL 0 , DDO 0

@@ -1,0 +1,8 @@
+Jul 08, 2018 9:06:16 PM Client.ClientImp createSRecord
+INFO: Initiating S record object creation request
+Jul 08, 2018 9:06:16 PM Client.ClientImp createSRecord
+INFO: student record is created and assigned with SR2
+Jul 08, 2018 9:06:50 PM Client.ClientImp transferRecord
+INFO: Initiating the record transfer request
+Jul 08, 2018 9:06:50 PM Client.ClientImp transferRecord
+INFO: RecordID unavailable!

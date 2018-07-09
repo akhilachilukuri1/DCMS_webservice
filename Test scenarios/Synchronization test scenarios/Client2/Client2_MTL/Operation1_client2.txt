@@ -1,0 +1,161 @@
+Please enter the Client's ManagerID
+MTL8888
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager
+1
+Enter the first name of the teacher
+Tom
+Enter the last name of the teacher
+Hanks
+Enter the address of the teacher
+1245 Rue de elgise
+Enter the Phone number in 123-456-7689 format
+987-123-4560
+Enter the specialization of the teacher
+Maths
+Enter the Location(MTL/LVL/DDO)
+MTL
+Teacher record is created and assigned with TR1
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager
+2
+Enter the first name of the student
+Adam
+Enter the last name of the student
+Sadler
+Enter the number of courses registered by the student
+3
+Enter the 3 courses(one per line) registered by the student
+Maths
+Physics
+Chemistry
+Enter the status of student (Active/Inactive)
+active
+Enter the date when the student became active(Format :: 29-02-2018)
+29-02-2016
+student record is created and assigned with SR1
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager
+3
+Total Record Count from all 3 servers is :: MTL 2 , LVL 0 , DDO 0
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager
+5
+Enter the record ID
+SR1
+Enter the location(MTL/LVL/DDO)
+DDO
+Record created in DDOand removed from MTL
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager
+3
+Total Record Count from all 3 servers is :: MTL 1 , LVL 0 , DDO 1
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager
+4
+Enter the Record ID
+TR1
+Enter the  field number  to be updated (1.address 2.phone or 3.location)
+1
+Enter the value of the field to be updated
+25 avenue St Mark
+Updated record with address :: 25 avenue St Mark
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager
+4
+Enter the Record ID
+TR1
+Enter the  field number  to be updated (1.address 2.phone or 3.location)
+2
+Enter the value of the field to be updated
+Enter the new Phone number in 123-456-7689 format
+123-444-0000
+Updated record with Phone :: 123-444-0000
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager
+4
+Enter the Record ID
+TR1
+Enter the  field number  to be updated (1.address 2.phone or 3.location)
+3
+Enter the value of the field to be updated
+Enter the new Location(MTL/LVL/DDO)
+DDO
+Updated record with location :: DDO
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager
+3
+Total Record Count from all 3 servers is :: MTL 1 , LVL 0 , DDO 1
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager
+1
+Enter the first name of the teacher
+aakash
+Enter the last name of the teacher
+singh
+Enter the address of the teacher
+1250 laval
+Enter the Phone number in 123-456-7689 format
+123-850-1234
+Enter the specialization of the teacher
+French
+Enter the Location(MTL/LVL/DDO)
+LVL
+Teacher record is created and assigned with TR4
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager

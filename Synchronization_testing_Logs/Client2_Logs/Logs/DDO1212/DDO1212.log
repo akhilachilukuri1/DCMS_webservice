@@ -1,0 +1,44 @@
+Jul 08, 2018 8:24:07 PM Client.ClientImp createTRecord
+INFO: Initiating T record object creation request
+Jul 08, 2018 8:24:07 PM Client.ClientImp createTRecord
+INFO: Teacher record is created and assigned with TR1
+Jul 08, 2018 8:24:56 PM Client.ClientImp createSRecord
+INFO: Initiating S record object creation request
+Jul 08, 2018 8:24:57 PM Client.ClientImp createSRecord
+INFO: student record is created and assigned with SR1
+Jul 08, 2018 8:25:02 PM Client.ClientImp getRecordCounts
+INFO: Initiating record count request
+Jul 08, 2018 8:25:02 PM Client.ClientImp getRecordCounts
+INFO: received....count as follows
+Jul 08, 2018 8:25:02 PM Client.ClientImp getRecordCounts
+INFO: DDO 2 , MTL 0 , LVL 0
+Jul 08, 2018 8:26:12 PM Client.ClientImp getRecordCounts
+INFO: Initiating record count request
+Jul 08, 2018 8:26:12 PM Client.ClientImp getRecordCounts
+INFO: received....count as follows
+Jul 08, 2018 8:26:12 PM Client.ClientImp getRecordCounts
+INFO: DDO 3 , MTL 0 , LVL 0
+Jul 08, 2018 8:33:57 PM Client.ClientImp createTRecord
+INFO: Initiating T record object creation request
+Jul 08, 2018 8:33:57 PM Client.ClientImp createTRecord
+INFO: Teacher record is created and assigned with TR3
+Jul 08, 2018 8:34:14 PM Client.ClientImp createSRecord
+INFO: Initiating S record object creation request
+Jul 08, 2018 8:34:14 PM Client.ClientImp createSRecord
+INFO: student record is created and assigned with SR2
+Jul 08, 2018 8:34:40 PM Client.ClientImp getRecordCounts
+INFO: Initiating record count request
+Jul 08, 2018 8:34:41 PM Client.ClientImp getRecordCounts
+INFO: received....count as follows
+Jul 08, 2018 8:34:41 PM Client.ClientImp getRecordCounts
+INFO: DDO 5 , MTL 0 , LVL 0
+Jul 08, 2018 8:36:33 PM Client.ClientImp getRecordCounts
+INFO: Initiating record count request
+Jul 08, 2018 8:36:33 PM Client.ClientImp getRecordCounts
+INFO: received....count as follows
+Jul 08, 2018 8:36:33 PM Client.ClientImp getRecordCounts
+INFO: DDO 3 , MTL 0 , LVL 2
+Jul 08, 2018 8:46:18 PM Client.ClientImp transferRecord
+INFO: Initiating the record transfer request
+Jul 08, 2018 8:46:18 PM Client.ClientImp transferRecord
+INFO: Record created in LVLand removed from DDO

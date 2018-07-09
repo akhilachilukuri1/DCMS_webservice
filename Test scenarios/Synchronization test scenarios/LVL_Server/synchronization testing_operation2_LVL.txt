@@ -1,0 +1,8 @@
+DDO Web Service is published!
+LVL Web Service is published!
+ Student is added LVL1234,SR1,vicky,raman,[math],Active,29-02-2018 with this key r by Manager LVL1234
+Received pkt :: GET_RECORD_COUNT
+Received pkt :: GET_RECORD_COUNT
+Teacher is added LVL1111,TR1,Aaaksh,Lovepreeth,1235 UK Romance,123-456-7850,Romace,LVL with this key L by Manager LVL1111
+Received pkt :: GET_RECORD_COUNT
+Received pkt :: GET_RECORD_COUNT

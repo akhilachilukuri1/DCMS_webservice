@@ -1,0 +1,72 @@
+Please enter the Client's ManagerID
+DDO
+Invalid ManagerID!!.....Try again!!
+Please enter the Client's ManagerID
+DDO1212
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager
+1
+Enter the first name of the teacher
+asdsad
+Enter the last name of the teacher
+sadsad
+Enter the address of the teacher
+qwewqe
+Enter the Phone number in 123-456-7689 format
+123-123-1212
+Enter the specialization of the teacher
+rrrrr
+Enter the Location(MTL/LVL/DDO)
+DDO
+Teacher record is created and assigned with TR3
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager
+2
+Enter the first name of the student
+vvv
+Enter the last name of the student
+eee
+Enter the number of courses registered by the student
+1
+Enter the 1 courses(one per line) registered by the student
+math
+Enter the status of student (Active/Inactive)
+Active
+Enter the date when the student became active(Format :: 29-02-2018)
+22-09-2018
+student record is created and assigned with SR2
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager
+3
+Total Record Count from all 3 servers is :: DDO 5 , MTL 0 , LVL 0
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager
+3
+Total Record Count from all 3 servers is :: DDO 3 , MTL 0 , LVL 2
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager

@@ -1,0 +1,11 @@
+DDO Web Service is published!
+LVL Web Service is published!
+Teacher is added DDO1212,TR1,Hello,Name,erererer,123-123-1212,Math,DDO with this key N by Manager DDO1212
+ Student is added DDO1212,SR1,Marks,Nickam,[math/english],Active,23-06-2017 with this key N by Manager DDO1212
+Received pkt :: GET_RECORD_COUNT
+Received pkt :: GET_RECORD_COUNT
+Teacher is added DDO1111,TR2,Sam,Anderson,2125 Delhi 06,788-555-2145,French,DDO with this key A by Manager DDO1111
+Received pkt :: GET_RECORD_COUNT
+Received pkt :: GET_RECORD_COUNT
+Received pkt :: GET_RECORD_COUNT
+Received pkt :: GET_RECORD_COUNT

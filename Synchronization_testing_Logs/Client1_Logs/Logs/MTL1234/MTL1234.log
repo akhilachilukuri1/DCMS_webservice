@@ -1,0 +1,20 @@
+Jul 08, 2018 7:02:08 PM Client.ClientImp getRecordCounts
+INFO: Initiating record count request
+Jul 08, 2018 7:02:08 PM Client.ClientImp getRecordCounts
+INFO: received....count as follows
+Jul 08, 2018 7:02:08 PM Client.ClientImp getRecordCounts
+INFO: MTL 1 , LVL 0 , DDO 1
+Jul 08, 2018 7:02:44 PM Client.ClientImp createTRecord
+INFO: Initiating T record object creation request
+Jul 08, 2018 7:02:44 PM Client.ClientImp createTRecord
+INFO: Teacher record is created and assigned with TR2
+Jul 08, 2018 7:03:44 PM Client.ClientImp createTRecord
+INFO: Initiating T record object creation request
+Jul 08, 2018 7:03:44 PM Client.ClientImp createTRecord
+INFO: Teacher record is created and assigned with TR3
+Jul 08, 2018 7:05:22 PM Client.ClientImp getRecordCounts
+INFO: Initiating record count request
+Jul 08, 2018 7:05:23 PM Client.ClientImp getRecordCounts
+INFO: received....count as follows
+Jul 08, 2018 7:05:23 PM Client.ClientImp getRecordCounts
+INFO: MTL 4 , LVL 0 , DDO 1

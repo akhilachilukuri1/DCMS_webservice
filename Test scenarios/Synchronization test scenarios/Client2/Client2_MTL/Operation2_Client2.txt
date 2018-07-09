@@ -1,0 +1,22 @@
+Please enter the Client's ManagerID
+MTL5555
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager
+5
+Enter the record ID
+TR2
+Enter the location(MTL/LVL/DDO)
+LVL
+Record created in LVLand removed from MTL
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager

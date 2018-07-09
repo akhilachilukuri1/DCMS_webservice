@@ -1,0 +1,20 @@
+Jul 08, 2018 7:29:43 PM Client.ClientImp editRecord
+INFO: MTL1212has Initiated the record edit request for TR1
+Jul 08, 2018 7:29:43 PM Client.ClientImp editRecord
+INFO: Updated record with address :: Client 2 Address
+Jul 08, 2018 8:05:40 PM Client.ClientImp createTRecord
+INFO: Initiating T record object creation request
+Jul 08, 2018 8:05:40 PM Client.ClientImp createTRecord
+INFO: Teacher record is created and assigned with TR1
+Jul 08, 2018 8:06:05 PM Client.ClientImp getRecordCounts
+INFO: Initiating record count request
+Jul 08, 2018 8:06:06 PM Client.ClientImp getRecordCounts
+INFO: received....count as follows
+Jul 08, 2018 8:06:06 PM Client.ClientImp getRecordCounts
+INFO: MTL 1 , LVL 0 , DDO 0
+Jul 08, 2018 8:06:21 PM Client.ClientImp getRecordCounts
+INFO: Initiating record count request
+Jul 08, 2018 8:06:21 PM Client.ClientImp getRecordCounts
+INFO: received....count as follows
+Jul 08, 2018 8:06:21 PM Client.ClientImp getRecordCounts
+INFO: MTL 1 , LVL 0 , DDO 0

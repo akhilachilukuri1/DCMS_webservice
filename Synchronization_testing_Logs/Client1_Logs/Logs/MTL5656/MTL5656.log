@@ -1,0 +1,8 @@
+Jul 08, 2018 7:29:43 PM Client.ClientImp editRecord
+INFO: MTL5656has Initiated the record edit request for TR1
+Jul 08, 2018 7:29:43 PM Client.ClientImp editRecord
+INFO: Updated record with address :: client1 address
+Jul 08, 2018 7:32:24 PM Client.ClientImp transferRecord
+INFO: Initiating the record transfer request
+Jul 08, 2018 7:32:24 PM Client.ClientImp transferRecord
+INFO: Record created in LVLand removed from MTL

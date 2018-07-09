@@ -1,0 +1,10 @@
+Jul 08, 2018 7:35:56 PM Client.ClientImp transferRecord
+INFO: Initiating the record transfer request
+Jul 08, 2018 7:35:57 PM Client.ClientImp transferRecord
+INFO: Record created in LVLand removed from MTL
+Jul 08, 2018 7:36:23 PM Client.ClientImp getRecordCounts
+INFO: Initiating record count request
+Jul 08, 2018 7:36:23 PM Client.ClientImp getRecordCounts
+INFO: received....count as follows
+Jul 08, 2018 7:36:23 PM Client.ClientImp getRecordCounts
+INFO: MTL 0 , LVL 1 , DDO 0

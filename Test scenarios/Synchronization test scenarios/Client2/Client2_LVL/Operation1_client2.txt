@@ -1,0 +1,51 @@
+Please enter the Client's ManagerID
+LV8888
+Too many characters in the manager ID. please enter in (LOCXXXX) format, where LOC={MTL,DDO,LVL}
+Please enter the Client's ManagerID
+LVL8888
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager
+1
+Enter the first name of the teacher
+Hello
+Enter the last name of the teacher
+Bawse
+Enter the address of the teacher
+werwererw
+Enter the Phone number in 123-456-7689 format
+123-123-1212
+Enter the specialization of the teacher
+Quantum Physics
+Enter the Location(MTL/LVL/DDO)
+LVL
+Teacher record is created and assigned with TR2
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager
+3
+Total Record Count from all 3 servers is :: LVL 3 , MTL 0 , DDO 0
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager
+3
+Total Record Count from all 3 servers is :: LVL 2 , MTL 0 , DDO 1
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager

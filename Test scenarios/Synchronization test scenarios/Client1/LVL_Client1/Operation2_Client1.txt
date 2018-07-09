@@ -1,0 +1,30 @@
+Please enter the Client's ManagerID
+LVL1111
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager
+1
+Enter the first name of the teacher
+Aaaksh
+Enter the last name of the teacher
+Lovepreeth
+Enter the address of the teacher
+1235 UK Romance
+Enter the Phone number in 123-456-7689 format
+123-456-7850
+Enter the specialization of the teacher
+Romace
+Enter the Location(MTL/LVL/DDO)
+LVL
+Teacher record is created and assigned with TR1
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager

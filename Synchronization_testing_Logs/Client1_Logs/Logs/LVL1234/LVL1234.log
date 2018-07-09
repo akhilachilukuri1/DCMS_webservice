@@ -1,0 +1,26 @@
+Jul 08, 2018 7:38:48 PM Client.ClientImp transferRecord
+INFO: Initiating the record transfer request
+Jul 08, 2018 7:38:48 PM Client.ClientImp transferRecord
+INFO: Record created in MTLand removed from LVL
+Jul 08, 2018 8:09:59 PM Client.ClientImp getRecordCounts
+INFO: Initiating record count request
+Jul 08, 2018 8:09:59 PM Client.ClientImp getRecordCounts
+INFO: received....count as follows
+Jul 08, 2018 8:09:59 PM Client.ClientImp getRecordCounts
+INFO: LVL 0 , MTL 0 , DDO 0
+Jul 08, 2018 8:10:55 PM Client.ClientImp createTRecord
+INFO: Initiating T record object creation request
+Jul 08, 2018 8:10:56 PM Client.ClientImp createTRecord
+INFO: Teacher record is created and assigned with TR1
+Jul 08, 2018 8:10:58 PM Client.ClientImp getRecordCounts
+INFO: Initiating record count request
+Jul 08, 2018 8:10:58 PM Client.ClientImp getRecordCounts
+INFO: received....count as follows
+Jul 08, 2018 8:10:58 PM Client.ClientImp getRecordCounts
+INFO: LVL 1 , MTL 0 , DDO 0
+Jul 08, 2018 8:11:07 PM Client.ClientImp getRecordCounts
+INFO: Initiating record count request
+Jul 08, 2018 8:11:08 PM Client.ClientImp getRecordCounts
+INFO: received....count as follows
+Jul 08, 2018 8:11:08 PM Client.ClientImp getRecordCounts
+INFO: LVL 1 , MTL 0 , DDO 0

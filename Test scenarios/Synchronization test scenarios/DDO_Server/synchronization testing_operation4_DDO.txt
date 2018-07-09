@@ -1,0 +1,5 @@
+Transferring record to :: LVL
+Received pkt :: TRANSFER_RECORD#DDO1212,SR1,Marks,Nickam,[math/english],Active,23-06-2017
+Transferring :: DDO1212,SR1,Marks,Nickam,[math/english],Active,23-06-2017
+{A=[DDO1111,TR2,Sam,Anderson,2125 Delhi 06,788-555-2145,French,DDO], s=[], e=[], N=[]}
+Transferring record to :: LVL

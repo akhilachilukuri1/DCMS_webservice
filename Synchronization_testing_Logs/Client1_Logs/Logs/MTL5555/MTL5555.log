@@ -1,0 +1,16 @@
+Jul 08, 2018 7:10:23 PM Client.ClientImp getRecordCounts
+INFO: Initiating record count request
+Jul 08, 2018 7:10:23 PM Client.ClientImp getRecordCounts
+INFO: received....count as follows
+Jul 08, 2018 7:10:23 PM Client.ClientImp getRecordCounts
+INFO: MTL 4 , LVL 0 , DDO 1
+Jul 08, 2018 7:10:42 PM Client.ClientImp getRecordCounts
+INFO: Initiating record count request
+Jul 08, 2018 7:10:42 PM Client.ClientImp getRecordCounts
+INFO: received....count as follows
+Jul 08, 2018 7:10:42 PM Client.ClientImp getRecordCounts
+INFO: MTL 3 , LVL 1 , DDO 1
+Jul 08, 2018 7:14:21 PM Client.ClientImp editRecord
+INFO: MTL5555has Initiated the record edit request for TR4
+Jul 08, 2018 7:14:22 PM Client.ClientImp editRecord
+INFO: Updated record with address :: client1 address

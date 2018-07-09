@@ -1,0 +1,69 @@
+Please enter the Client's ManagerID
+MTL1234
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager
+3
+Total Record Count from all 3 servers is :: MTL 1 , LVL 0 , DDO 1
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager
+1
+Enter the first name of the teacher
+AKHILA
+Enter the last name of the teacher
+CHILUKURI
+Enter the address of the teacher
+mtl
+Enter the Phone number in 123-456-7689 format
+222-222-2222
+Enter the specialization of the teacher
+mcse
+Enter the Location(MTL/LVL/DDO)
+mtl
+Teacher record is created and assigned with TR2
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager
+1
+Enter the first name of the teacher
+SAI
+Enter the last name of the teacher
+VISH
+Enter the address of the teacher
+MTL
+Enter the Phone number in 123-456-7689 format
+222-222-2222
+Enter the specialization of the teacher
+mcse
+Enter the Location(MTL/LVL/DDO)
+MTL
+Teacher record is created and assigned with TR3
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager
+3
+Total Record Count from all 3 servers is :: MTL 4 , LVL 0 , DDO 1
+choose the operation
+1) Create the Teacher record
+2) Create the Student record
+3) Get the record count
+4) Edit the record
+5) Transfer the record
+6) Logout manager

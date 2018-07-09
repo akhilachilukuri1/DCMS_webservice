@@ -1,0 +1,74 @@
+Jul 08, 2018 7:52:02 PM Server.ServerUDP <init>
+INFO: DDO UDP Server Started
+Jul 08, 2018 7:54:54 PM Server.ServerUDP run
+INFO: Received GET_RECORD_COUNT from DDO
+Jul 08, 2018 7:55:05 PM Server.ServerUDP run
+INFO: Received GET_RECORD_COUNT from DDO
+Jul 08, 2018 7:55:47 PM Server.ServerUDP run
+INFO: Received GET_RECORD_COUNT from DDO
+Jul 08, 2018 7:58:24 PM Server.ServerUDP run
+INFO: Received GET_RECORD_COUNT from DDO
+Jul 08, 2018 7:58:36 PM Server.ServerUDP run
+INFO: Received GET_RECORD_COUNT from DDO
+Jul 08, 2018 8:00:40 PM Server.ServerUDP <init>
+INFO: DDO UDP Server Started
+Jul 08, 2018 8:02:25 PM Server.DcmsServerImpl createTRecord
+INFO: Teacher record created TR1 by Manager : DDO1234
+Jul 08, 2018 8:03:14 PM Server.ServerUDP <init>
+INFO: DDO UDP Server Started
+Jul 08, 2018 8:06:16 PM Server.ServerUDP run
+INFO: Received GET_RECORD_COUNT from DDO
+Jul 08, 2018 8:06:25 PM Server.ServerUDP run
+INFO: Received GET_RECORD_COUNT from DDO
+Jul 08, 2018 8:09:38 PM Server.ServerUDP <init>
+INFO: DDO UDP Server Started
+Jul 08, 2018 8:09:59 PM Server.ServerUDP run
+INFO: Received GET_RECORD_COUNT from DDO
+Jul 08, 2018 8:10:58 PM Server.ServerUDP run
+INFO: Received GET_RECORD_COUNT from DDO
+Jul 08, 2018 8:11:07 PM Server.ServerUDP run
+INFO: Received GET_RECORD_COUNT from DDO
+Jul 08, 2018 8:22:45 PM Server.ServerUDP <init>
+INFO: DDO UDP Server Started
+Jul 08, 2018 8:24:07 PM Server.DcmsServerImpl createTRecord
+INFO: Teacher record created TR1 by Manager : DDO1212
+Jul 08, 2018 8:24:56 PM Server.DcmsServerImpl createSRecord
+INFO: Student record created SR1 by manager : DDO1212
+Jul 08, 2018 8:26:05 PM Server.DcmsServerImpl createTRecord
+INFO: Teacher record created TR2 by Manager : DDO1111
+Jul 08, 2018 8:33:57 PM Server.DcmsServerImpl createTRecord
+INFO: Teacher record created TR3 by Manager : DDO1212
+Jul 08, 2018 8:34:14 PM Server.DcmsServerImpl createSRecord
+INFO: Student record created SR2 by manager : DDO1212
+Jul 08, 2018 8:35:34 PM Server.DcmsServerImpl transferRecord
+INFO: Record created in  LVL  and removed from DDO
+Jul 08, 2018 8:36:27 PM Server.DcmsServerImpl transferRecord
+INFO: Record created in  LVL  and removed from DDO
+Jul 08, 2018 8:41:06 PM Server.DcmsServerImpl editTRRecord
+INFO: DDO3333Updated the records	DDO
+Jul 08, 2018 8:41:06 PM Server.DcmsServerImpl editTRRecord
+INFO: DDO2345Updated the records	DDO
+Jul 08, 2018 8:42:26 PM Server.DcmsServerImpl transferRecord
+INFO: Record created in  LVL  and removed from DDO
+Jul 08, 2018 8:46:18 PM Server.DcmsServerImpl transferRecord
+INFO: Record created in  LVL  and removed from DDO
+Jul 08, 2018 8:48:46 PM Server.ServerUDP run
+INFO: Received GET_RECORD_COUNT from DDO
+Jul 08, 2018 8:50:13 PM Server.ServerUDP <init>
+INFO: DDO UDP Server Started
+Jul 08, 2018 8:51:40 PM Server.ServerUDP run
+INFO: Received GET_RECORD_COUNT from DDO
+Jul 08, 2018 8:53:36 PM Server.ServerUDP run
+INFO: Received GET_RECORD_COUNT from DDO
+Jul 08, 2018 8:56:33 PM Server.ServerUDP run
+INFO: Received GET_RECORD_COUNT from DDO
+Jul 08, 2018 8:56:37 PM Server.ServerUDP run
+INFO: Received GET_RECORD_COUNT from DDO
+Jul 08, 2018 8:56:52 PM Server.ServerUDP run
+INFO: Received TRANSFER_RECORD#LVL8888,TR2,Hello,Bawse,werwererw,123-123-1212,Quantum Physics,LVL from DDO
+Jul 08, 2018 8:56:56 PM Server.ServerUDP run
+INFO: Received GET_RECORD_COUNT from DDO
+Jul 08, 2018 9:00:13 PM Server.ServerUDP run
+INFO: Received TRANSFER_RECORD#LVL1111,TR1,Aaaksh,Lovepreeth,Client 1 address,123-456-7850,Romace,LVL from DDO
+Jul 08, 2018 9:06:45 PM Server.ServerUDP run
+INFO: Received TRANSFER_RECORD#LVL1231,SR2,Vaishnavi,HoneyBoi,[Smart/JavaExpert],Active,29-02-2018 from DDO
