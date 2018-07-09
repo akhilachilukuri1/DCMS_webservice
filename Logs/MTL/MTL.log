@@ -1,0 +1,84 @@
+Jul 08, 2018 5:38:47 PM Server.ServerUDP <init>
+INFO: MTL UDP Server Started
+Jul 08, 2018 6:09:37 PM Server.ServerUDP <init>
+INFO: MTL UDP Server Started
+Jul 08, 2018 6:26:10 PM Server.ServerUDP <init>
+INFO: MTL UDP Server Started
+Jul 08, 2018 6:28:20 PM Server.ServerUDP <init>
+INFO: MTL UDP Server Started
+Jul 08, 2018 6:29:36 PM Server.ServerUDP <init>
+INFO: MTL UDP Server Started
+Jul 08, 2018 6:33:54 PM Server.ServerUDP <init>
+INFO: MTL UDP Server Started
+Jul 08, 2018 6:36:23 PM Server.ServerUDP <init>
+INFO: MTL UDP Server Started
+Jul 08, 2018 6:44:34 PM Client.DcmsClient main
+INFO: Validating the status entered (ManagerID:MTL6666)
+Jul 08, 2018 6:45:25 PM Server.ServerUDP <init>
+INFO: MTL UDP Server Started
+Jul 08, 2018 6:47:14 PM Server.ServerUDP <init>
+INFO: MTL UDP Server Started
+Jul 08, 2018 6:50:36 PM Server.DcmsServerImpl createTRecord
+INFO: Teacher record created TR1 by Manager : MTL8888
+Jul 08, 2018 6:51:19 PM Server.DcmsServerImpl createSRecord
+INFO: Student record created SR1 by manager : MTL8888
+Jul 08, 2018 6:51:39 PM Server.DcmsServerImpl transferRecord
+INFO: Record created in  DDO  and removed from MTL
+Jul 08, 2018 6:53:19 PM Server.DcmsServerImpl editTRRecord
+INFO: MTL8888Updated the records	MTL
+Jul 08, 2018 6:53:47 PM Server.DcmsServerImpl editTRRecord
+INFO: MTL8888Updated the records	MTL
+Jul 08, 2018 6:54:05 PM Server.DcmsServerImpl editTRRecord
+INFO: MTL8888Updated the records	MTL
+Jul 08, 2018 7:02:44 PM Server.DcmsServerImpl createTRecord
+INFO: Teacher record created TR2 by Manager : MTL1234
+Jul 08, 2018 7:03:44 PM Server.DcmsServerImpl createTRecord
+INFO: Teacher record created TR3 by Manager : MTL1234
+Jul 08, 2018 7:03:45 PM Server.DcmsServerImpl createTRecord
+INFO: Teacher record created TR4 by Manager : MTL8888
+Jul 08, 2018 7:10:42 PM Server.DcmsServerImpl transferRecord
+INFO: Record created in  LVL  and removed from MTL
+Jul 08, 2018 7:14:21 PM Server.DcmsServerImpl editTRRecord
+INFO: MTL5555Updated the records	MTL
+Jul 08, 2018 7:14:22 PM Server.DcmsServerImpl editTRRecord
+INFO: MTL9877Updated the records	MTL
+Jul 08, 2018 7:22:35 PM Server.ServerUDP <init>
+INFO: MTL UDP Server Started
+Jul 08, 2018 7:25:30 PM Server.DcmsServerImpl createTRecord
+INFO: Teacher record created TR1 by Manager : MTL6666
+Jul 08, 2018 7:26:58 PM Server.DcmsServerImpl editTRRecord
+INFO: MTL6666Updated the records	MTL6666Client 2 Address
+Jul 08, 2018 7:26:58 PM Server.DcmsServerImpl editTRRecord
+INFO: MTL4141Updated the records	MTL4141client2 address
+Jul 08, 2018 7:29:43 PM Server.DcmsServerImpl editTRRecord
+INFO: MTL5656Updated the records	MTL5656client1 address
+Jul 08, 2018 7:29:43 PM Server.DcmsServerImpl editTRRecord
+INFO: MTL1212Updated the records	MTL1212Client 2 Address
+Jul 08, 2018 7:32:24 PM Server.DcmsServerImpl transferRecord
+INFO: Record created in  LVL  and removed from MTL
+Jul 08, 2018 7:32:24 PM Server.DcmsServerImpl transferRecord
+INFO: Record created in  LVL  and removed from MTL
+Jul 08, 2018 7:33:38 PM Server.ServerUDP <init>
+INFO: MTL UDP Server Started
+Jul 08, 2018 7:35:04 PM Server.DcmsServerImpl createTRecord
+INFO: Teacher record created TR1 by Manager : MTL5656
+Jul 08, 2018 7:35:57 PM Server.DcmsServerImpl transferRecord
+INFO: Record created in  LVL  and removed from MTL
+Jul 08, 2018 7:38:48 PM Server.ServerUDP run
+INFO: Received TRANSFER_RECORD#MTL5656,TR1,vicky,lovebird,asdsad,123-123-1231,Love,MTL from MTL
+Jul 08, 2018 7:39:59 PM Server.DcmsServerImpl transferRecord
+INFO: Record created in  LVL  and removed from MTL
+Jul 08, 2018 7:54:53 PM Server.DcmsServerImpl createTRecord
+INFO: Teacher record created TR2 by Manager : MTL1111
+Jul 08, 2018 8:00:33 PM Server.ServerUDP run
+INFO: Received GET_RECORD_COUNT from MTL
+Jul 08, 2018 8:02:37 PM Server.ServerUDP run
+INFO: Received GET_RECORD_COUNT from MTL
+Jul 08, 2018 8:04:21 PM Server.ServerUDP <init>
+INFO: MTL UDP Server Started
+Jul 08, 2018 8:05:40 PM Server.DcmsServerImpl createTRecord
+INFO: Teacher record created TR1 by Manager : MTL1212
+Jul 08, 2018 8:09:33 PM Server.ServerUDP <init>
+INFO: MTL UDP Server Started
+Jul 08, 2018 8:10:56 PM Server.DcmsServerImpl createTRecord
+INFO: Teacher record created TR1 by Manager : MTL1234

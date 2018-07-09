@@ -1,0 +1,21 @@
+MTL Web Service is published!
+DDO Web Service is published!
+LVL Web Service is published!
+Teacher is added MTL8888,TR1,Tom,Hanks,1245 Rue de elgise,987-123-4560,Maths,MTL with this key H by Manager MTL8888
+ Student is added MTL8888,SR1,Adam,Sadler,[Maths/Physics/Chemistry],active,29-02-2016 with this key S by Manager MTL8888
+Received pkt :: GET_RECORD_COUNT
+Received pkt :: GET_RECORD_COUNT
+Transferring record to :: DDO
+Received pkt :: TRANSFER_RECORD#MTL8888,SR1,Adam,Sadler,[Maths/Physics/Chemistry],active,29-02-2016
+Transferring :: MTL8888,SR1,Adam,Sadler,[Maths/Physics/Chemistry],active,29-02-2016
+{S=[], H=[MTL8888,TR1,Tom,Hanks,1245 Rue de elgise,987-123-4560,Maths,MTL]}
+Received pkt :: GET_RECORD_COUNT
+Received pkt :: GET_RECORD_COUNT
+Received pkt :: GET_RECORD_COUNT
+Teacher is added MTL1234,TR2,AKHILA,CHILUKURI,mtl,222-222-2222,mcse,mtl with this key C by Manager MTL1234
+Teacher is added MTL1234,TR3,SAI,VISH,MTL,222-222-2222,mcse,MTL with this key V by Manager MTL1234
+Teacher is added MTL8888,TR4,aakash,singh,1250 laval,123-850-1234,French,LVL with this key s by Manager MTL8888
+Transferring record to :: LVL
+Received pkt :: TRANSFER_RECORD#MTL1234,TR2,AKHILA,CHILUKURI,mtl,222-222-2222,mcse,mtl
+Transferring :: MTL1234,TR2,AKHILA,CHILUKURI,mtl,222-222-2222,mcse,mtl
+{S=[], C=[], s=[MTL8888,TR4,aakash,singh,1250 laval,123-850-1234,French,LVL], V=[MTL1234,TR3,SAI,VISH,MTL,222-222-2222,mcse,MTL], H=[MTL8888,TR1,Tom,Hanks,25 avenue St Mark,123-444-0000,Maths,DDO]}

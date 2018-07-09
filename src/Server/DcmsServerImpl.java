@@ -417,19 +417,22 @@ public class DcmsServerImpl implements Dcms {
 			if (record.isPresent()) {
 				if (record.isPresent() && fieldname.equals("Phone")) {
 					((Teacher) record.get()).setPhone(newvalue);
-					logManager.logger.log(Level.INFO, managerID + "Updated the records\t" + location);
+					logManager.logger.log(Level.INFO, managerID + "Updated the records\t" + managerID+newvalue);
+					System.out.println("Updated the record with \t" + managerID+"new value is "+newvalue);
 					return "Updated record with Phone :: " + newvalue;
 				}
 
 				else if (record.isPresent() && fieldname.equals("Address")) {
 					((Teacher) record.get()).setAddress(newvalue);
-					logManager.logger.log(Level.INFO, managerID + "Updated the records\t" + location);
+					logManager.logger.log(Level.INFO, managerID + "Updated the records\t" + managerID+newvalue);
+					System.out.println("Updated the record with\t" + managerID+"new value is "+newvalue);
 					return "Updated record with address :: " + newvalue;
 				}
 
 				else if (record.isPresent() && fieldname.equals("Location")) {
 					((Teacher) record.get()).setLocation(newvalue);
-					logManager.logger.log(Level.INFO, managerID + "Updated the records\t" + location);
+					logManager.logger.log(Level.INFO, managerID + "Updated the records\t" + managerID+"new value is "+newvalue);
+					System.out.println("Updated the record with\t" + managerID+newvalue);
 					return "Updated record with location :: " + newvalue;
 				} else {
 					System.out.println("Record with " + recordID + " not found");
