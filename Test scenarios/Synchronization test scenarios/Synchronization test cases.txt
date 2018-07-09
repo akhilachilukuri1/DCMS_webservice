@@ -6,4 +6,5 @@ MULTIPLE CLIENTS-SINGLE SERVER TEST CASES
 4. Create 1 record,  Get record count, Client 1 - transfer record from MTL -> LVL, record transferred  , Client 2 - transfer record from MTL ->DDO , record not found message displayed.
  
 SINGLE CLIENT-MULTIPLE SERVERS TEST CASES
-4. Multiple clients 
+Multiple clients should get record count from multiple servers running in different location.
+
